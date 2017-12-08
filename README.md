@@ -1,50 +1,82 @@
-## Your Name
+## Gabriela Budeanu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Having previously held positions in investment management (managing and analysing portfolios of government and corporate bonds), I am now looking to switch careers into the tech industry as a **Full Stack Junior Developer**. My main focus is on adopting a technical mindset, that will allow to quickly progress further into other programming languages.
 
-## Skills
+Despite being a high achiever and having progressed in my career in investment management, I started to realise that the effort I put in is not proportionally reflected in my performance. This is due many uncertainties and factors whose effects cannot be always predicted.
 
-#### This Skill
+I find the dynamic tech industry as being a far more challenging environment, where the connection between hard work and performance is much clearer.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My decision to now pursue a software developer career is also connected to the time a spend programming during high school. I really enjoyed coding, having initially thought to study further computer science, instead of finance for my bachelor degree. I am now strongly motivated to reverse my decision and put my efforts towards a career as a software developer.
 
-- Experience
-- Achievements
-- Evidence
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Achievements](#Other-Achievements) | [Interests](#interests)
 
-#### Another Skill
+## <a name="skills">Skills</a>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+**Analytical thinking**<br/>
+Strong analytical thinking and advanced financial skills and attained throughout my seven years experience in leading financial institutions both in London and in Bucharest.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As a portfolio manager at Raiffeisen Bank, in the process of identifying trade ideas I have acquired solid research skills by analysing macroeconomic factors, industry drivers and individual issuers' fundamentals such as leverage or cash flow generation.
 
-## Education
+While holding the role of Credit Strategy Analyst at Legal & General Investment Management, I provided investment recommendations via building quantitative modelling Excel based research within the credit universe (e.g. corporate bond performance).
 
-#### Makers Academy (start_date to end_date)
+**Communication skills**<br/>
+In my previous professional roles, I had the chance to not only fine tune my communication skills and easiness of interacting with clients at all levels in an organisation, but also my presentation skills through drafting and sustaining presentations for audiences larger than 50 people.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+**Working under pressure** <br/>
+By working in fast-paced environments where investment conditions were constantly changing, I have developed the ability to work under pressure and to multitask.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+## <a name="education">Education</a>
+
+**Makers Academy** (Oct 2017 to Jan 2018) <br />
+12-week full-time programming bootcamp
+
+Full-stack Web Development course covering:
+- OOP, TDD, MVC
+- Agile Methodologies
+- Pair Programming
+- Ruby, Sinatra, Ruby on Rails, JavaScript, jQuery
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+**MSc International Finance and Development, SOAS University of London** (2008 to 2009) <br/>
+Awarded MSc Degree with Distinction
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**BSc Finance and Banking, The Bucharest Academy of Economic Studies** (2004 to 2008) <br />
+First Class Degree - GPA 9.86 out of 10
 
-#### Any other qualifications
+**Erasmus exchange student in Business Economics at Lazarski University Warsaw** (2006 to 2007)
 
-## Experience
+**National College of Computer Science "Tudor Vianu" Bucharest** (2000 to 2004)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## <a name="Experience">Experience</a>
+
+**Raiffeisen Bank** Bucharest, Romania (June 2014 to Sept 2017)    
+*Liquidity Buffer Portfolio Manager*
+
+- managing the bank's liquidity buffer portfolio comprised of high quality and liquid financial instruments, mainly government and supranational bonds (EUR 700 mn under management).
+- maximising total return while preserving capital and liquidity, outperforming the benchmark.
+
+**Eurobank** Bucharest, Romania (Mar 2013 to Jun 2014)    
+*Treasury Sales & Structuring Dealer*
+
+- Pricing derivatives, quoting and executing transactions for the bank's structured deposits.
+- Consulting corporate clients regarding appropriate hedging instruments for both interest rate and foreign exchange risk.
+
+**Legal & General Investment Management** London, UK (Jun 2011 to Aug 2012)    
+*Credit Strategy Analyst - Active Fixed Income Funds*
+
+- Working closely with the active corporate bond portfolio managers and providing investment recommendations (£77.2 bn assets under management).
+- relative value security selection through quantitative modelling research within the credit universe e.g. credit default swap curve trades, anomalous bonds performance, as well as researching the individual credit fundamentals and sector drivers.
+
+**Bloomberg LP** London, UK (Jan 2010 to May 2011)   
+*Fixed Income Analyst*  
+
+- Acquired an in depth expertise of the European fixed income market by consulting clients regarding Bloomberg's financial platform fixed income analytics. I have developed great competency in cash bond valuations, interest rate products and credit derivatives pricing.
+- Gained a high proficiency in Bloomberg Excel API solution.
+
+## <a name="Other-Achievements">Other Achievements</a>
+
+I have been awarded two scholarships by "The Ratiu Family Foundation" and by "The Dinu Patriciu Foundation", to fund the MSc Finance and Development Studies that I have pursued at SOAS.
+
+## <a name="Interests">Interests</a>
+
+Except coding, I spend my time swimming, doing yoga and snowboarding.
