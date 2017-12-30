@@ -8,13 +8,13 @@ I find the tech industry to be a far more dynamic and challenging environment, w
 
 My decision to now pursue a software developer career is also connected to the time I spent programming during high school. I am now strongly motivated to reverse my decision and put my efforts towards pursuing a career as a software developer.
 
-[Projects](#projects) |[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Achievements](#Other-Achievements) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Achievements](#Other-Achievements) | [Interests](#interests)
 
 ## <a name="projects">Projects</a>
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | Momentgram represents the implementation of Makers Academy weekend challenge of recreating Instagram | Ruby on Rails, Rspec |
+| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | Momentgram represents the implementation of Makers Academy weekend challenge of recreating Instagram. | Ruby on Rails, Rspec |
 
 ## <a name="skills">Skills</a>
 
