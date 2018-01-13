@@ -8,13 +8,7 @@ I find the tech industry to be a far more dynamic and challenging environment, w
 
 My decision to now pursue a software developer career is also connected to the time I spent programming during high school. I am now strongly motivated to reverse my decision and put my efforts towards pursuing a career as a software developer.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Other Achievements](#Other-Achievements) | [Interests](#interests)
-
-## <a name="projects">Projects</a>
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | Momentgram represents the implementation of Makers Academy weekend challenge of recreating Instagram. | Ruby on Rails, Rspec |
+ [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Achievements](#Other-Achievements) | [Interests](#interests)
 
 ## <a name="skills">Skills</a>
 
@@ -31,17 +25,24 @@ In my previous professional roles, I had the chance to not only fine-tune my com
 **Working under pressure** <br/>
 By working in fast-paced environments where investment conditions were constantly changing, I developed the ability to work under pressure and to multitask.
 
+## <a name="projects">Projects</a>
+
+| Project   | Description | Technologies | Timeframe |
+|---        |---         |---           |---
+| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | Momentgram represents an instagram-like application. | Ruby on Rails, Rspec | 1 weekend |
+| [Bowling Game Score](https://github.com/gabrielabud/bowling-challenge) | A calculator of bowling game scores for one player | Javascript, jQuery, Jasmine | 1 weekend |
+
 ## <a name="education">Education</a>
 
 **Makers Academy** (Oct 2017 to Jan 2018) <br />
 12-week full-time programming bootcamp
 
 Full-stack Web Development course covering:
+- Ruby, Sinatra, Ruby on Rails, JavaScript, jQuery, React
+- RSpec, Jasmine
 - OOP, TDD, MVC
 - Agile Methodologies
 - Pair Programming
-- Ruby, Sinatra, Ruby on Rails, JavaScript, jQuery
-- RSpec, Jasmine
 
 **MSc International Finance and Development, SOAS University of London** (2008 to 2009) <br/>
 Awarded MSc Degree with Distinction
