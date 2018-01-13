@@ -29,7 +29,7 @@ By working in fast-paced environments where investment conditions were constantl
 
 | Project   | Description | Technologies | Timeframe |
 |---        |---         |---           |---
-| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | Momentgram represents an instagram-like application. | Ruby on Rails, Rspec | 1 weekend |
+| [Momentgram](https://github.com/gabrielabud/instagram-challenge) | An instagram-like application | Ruby on Rails, Rspec | 1 weekend |
 | [NightmAirbnb](https://github.com/gabrielabud/MakersBnB) | A clone of Airbnb | Ruby on Rails, Rspec | 5 days |
 | [Bowling Game Score](https://github.com/gabrielabud/bowling-challenge) | A calculator of bowling game scores for one player | Ruby, Sinatra, JQuery, Postgres, DataMapper, RSpec, Capybara | 1 weekend |
 
