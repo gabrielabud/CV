@@ -31,7 +31,7 @@ By working in fast-paced environments where investment conditions were constantl
 |---        |---         |---           |---
 | [Momentgram](https://github.com/gabrielabud/instagram-challenge) | An instagram-like application | Ruby on Rails, Rspec | 1 weekend |
 | [Ame News](https://github.com/gabrielabud/news-summary-challenge) |  An news app written in pure Javascript | JavaScript, CSS and HTML | 1 weekend |
-| [Bowling Game Score](https://github.com/gabrielabud/bowling-challenge) | A calculator of bowling game scores for one player | Javascript, jQuery, Jasmine | 1 weekend |
+| [Bowling Game Score](https://github.com/gabrielabud/bowling-challenge) | A calculator of bowling game scores for one player | JavaScript, jQuery, Jasmine | 1 weekend |
 | [NightmAirbnb](https://github.com/gabrielabud/MakersBnB) | A clone of Airbnb | Ruby, Sinatra, JQuery, Postgres, DataMapper, RSpec, Capybara | 5 days |
 
 ## <a name="education">Education</a>
