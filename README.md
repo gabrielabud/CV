@@ -41,7 +41,7 @@ By working in fast-paced environments where investment conditions were constantl
 12-week full-time programming bootcamp
 
 Full-stack Web Development course covering:
-- Ruby, Sinatra, Ruby on Rails, JavaScript, jQuery, React
+- Ruby, Sinatra, Ruby on Rails, JavaScript, jQuery, React, Node
 - RSpec, Jasmine
 - OOP, TDD, MVC
 - Agile Methodologies
