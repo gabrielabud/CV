@@ -29,6 +29,7 @@ By working in fast-paced environments where investment conditions were constantl
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Take a Paws](https://github.com/gabrielabud/take-a-paws-1) | A social networking that brings together dog lovers | Javascript, Node, React, socket.io, Mocha, Chai |
 | [Momentgram](https://github.com/gabrielabud/instagram-challenge) | An instagram-like application | Ruby on Rails, Rspec |
 | [Ame News](https://github.com/gabrielabud/news-summary-challenge) |  An news app written in pure Javascript | JavaScript, CSS and HTML |
 | [Bowling Game Score](https://github.com/gabrielabud/bowling-challenge) | A calculator of bowling game scores for one player | JavaScript, jQuery, Jasmine |
