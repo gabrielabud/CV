@@ -87,6 +87,8 @@ First Class Degree - GPA 9.86 out of 10
 
 I was awarded two scholarships by "The Ratiu Family Foundation" and "The Dinu Patriciu Foundation", to fund the MSc Finance and Development Studies that I pursued at SOAS.
 
+Intermediat level in German language - Zertifikat Deutsch (Goethe Zertificat B1)
+
 ## <a name="Interests">Interests</a>
 
 Except coding, I spend my time swimming, doing yoga and snowboarding.
